@@ -1,0 +1,15 @@
+.profile-item-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  padding: 0px;
+}
+.heading-published-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px;
+}
+.published-date {
+  align-self: flex-end;
+}
